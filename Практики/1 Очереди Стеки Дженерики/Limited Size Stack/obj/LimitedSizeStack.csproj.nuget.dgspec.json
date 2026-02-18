@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ladyg\\OneDrive\\Документы\\C#\\C-Ulearn-Part-2-\\Практики\\1 Очереди Стеки Дженерики\\Limited Size Stack\\LimitedSizeStack.csproj": {}
+    "C:\\Users\\ladyg\\OneDrive\\Документы\\C#\\CSharp-Ulearn-Part-2-\\Практики\\1 Очереди Стеки Дженерики\\Limited Size Stack\\LimitedSizeStack.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ladyg\\OneDrive\\Документы\\C#\\C-Ulearn-Part-2-\\Практики\\1 Очереди Стеки Дженерики\\Limited Size Stack\\LimitedSizeStack.csproj": {
+    "C:\\Users\\ladyg\\OneDrive\\Документы\\C#\\CSharp-Ulearn-Part-2-\\Практики\\1 Очереди Стеки Дженерики\\Limited Size Stack\\LimitedSizeStack.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ladyg\\OneDrive\\Документы\\C#\\C-Ulearn-Part-2-\\Практики\\1 Очереди Стеки Дженерики\\Limited Size Stack\\LimitedSizeStack.csproj",
+        "projectUniqueName": "C:\\Users\\ladyg\\OneDrive\\Документы\\C#\\CSharp-Ulearn-Part-2-\\Практики\\1 Очереди Стеки Дженерики\\Limited Size Stack\\LimitedSizeStack.csproj",
         "projectName": "LimitedSizeStack",
-        "projectPath": "C:\\Users\\ladyg\\OneDrive\\Документы\\C#\\C-Ulearn-Part-2-\\Практики\\1 Очереди Стеки Дженерики\\Limited Size Stack\\LimitedSizeStack.csproj",
+        "projectPath": "C:\\Users\\ladyg\\OneDrive\\Документы\\C#\\CSharp-Ulearn-Part-2-\\Практики\\1 Очереди Стеки Дженерики\\Limited Size Stack\\LimitedSizeStack.csproj",
         "packagesPath": "C:\\Users\\ladyg\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ladyg\\OneDrive\\Документы\\C#\\C-Ulearn-Part-2-\\Практики\\1 Очереди Стеки Дженерики\\Limited Size Stack\\obj\\",
+        "outputPath": "C:\\Users\\ladyg\\OneDrive\\Документы\\C#\\CSharp-Ulearn-Part-2-\\Практики\\1 Очереди Стеки Дженерики\\Limited Size Stack\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

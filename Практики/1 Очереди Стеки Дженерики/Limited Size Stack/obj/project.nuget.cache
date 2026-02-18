@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3w5D0Ulown8=",
+  "dgSpecHash": "nX/KrwWQsho=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ladyg\\OneDrive\\Документы\\C#\\C-Ulearn-Part-2-\\Практики\\1 Очереди Стеки Дженерики\\Limited Size Stack\\LimitedSizeStack.csproj",
+  "projectFilePath": "C:\\Users\\ladyg\\OneDrive\\Документы\\C#\\CSharp-Ulearn-Part-2-\\Практики\\1 Очереди Стеки Дженерики\\Limited Size Stack\\LimitedSizeStack.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ladyg\\.nuget\\packages\\avalonia\\11.3.6\\avalonia.11.3.6.nupkg.sha512",
     "C:\\Users\\ladyg\\.nuget\\packages\\avalonia.angle.windows.natives\\2.1.25547.20250602\\avalonia.angle.windows.natives.2.1.25547.20250602.nupkg.sha512",
