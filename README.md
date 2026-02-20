@@ -32,6 +32,6 @@
 
 <div align="center">
   <a href="https://github.com/0Ivanuel0/CSharp-Ulearn-Part-1-">
-    <img src="https://img.shields.io/badge/🚀_Перейти_ко_второй_части-4B8BBE?style=for-the-badge&logo=github&logoColor=white" alt="Перейти к первой части">
+    <img src="https://img.shields.io/badge/🚀_Перейти_к_первой_части-4B8BBE?style=for-the-badge&logo=github&logoColor=white" alt="Перейти к первой части">
   </a>
 </div>
